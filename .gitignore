@@ -8,7 +8,8 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-.mvn/wrapper/maven-wrapper.jar
+# Keep maven-wrapper.jar as it's needed for the wrapper to work
+# .mvn/wrapper/maven-wrapper.jar
 
 # IDE
 .idea/
