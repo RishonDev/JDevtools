@@ -10,7 +10,7 @@ long_description = (this_directory / "README.md").read_text(encoding='utf-8')
 setup(
     name="jdevtools",
     version="0.1.0",
-    description="Curated Dev tools for creating native apps in Core Java and Java",
+    description="Curated Dev tools for creating native Java apps",
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="JDevtools",
